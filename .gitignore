@@ -1,0 +1,8 @@
+-- Active: 1775241830997@@localhost@6000@app
+.env
+node_modules/
+map.tex
+bun.lock
+1.png
+db/
+docs/
